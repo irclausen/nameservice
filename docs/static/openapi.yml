@@ -51546,6 +51546,8 @@ definitions:
       the connection handshake.
   irclausen.nameservice.nameservice.MsgBuyNameResponse:
     type: object
+  irclausen.nameservice.nameservice.MsgSetNameResponse:
+    type: object
   irclausen.nameservice.nameservice.Params:
     type: object
     description: Params defines the parameters for the module.
